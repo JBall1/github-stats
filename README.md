@@ -80,6 +80,7 @@ caches statistics for your repositories. For more information, see issue
 
 # Related Projects
 
+
 - Inspired by a desire to improve upon
   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - Makes use of [GitHub Octicons](https://primer.style/octicons/) to precisely
